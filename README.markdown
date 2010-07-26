@@ -1,6 +1,6 @@
 # Features
 
-* Multiple Arbitrary Simultaneous Carets (MASC): Edit any number of text selections simultaneously. Use ⌥S to mark a selection (or the current caret location) and then ⌥F to convert all markers in to a snippet.([Duane Johnson](http://inquirylabs.com/))
+* Multiple Arbitrary Simultaneous Carets (MASC): Edit any number of text selections simultaneously. Use ⌥S to mark a selection (or the current caret location) and then ⌥F to convert all markers in to a snippet. [Check an the Screencast Duane made.](http://inquirylabs.com/downloads/Textmate%20MASC%204.mov) ([Duane Johnson](http://inquirylabs.com/))
 * Refactor Selection with MASC: Select a portion of text you wish to refactorize, use ⌥D to mark all matching text in the document and then use ⌥F to convert all markers to a snippet. (Inherited from [Mario "kuroir" Ricalde](http://kuroir.com/))
 
 ## About this bundle

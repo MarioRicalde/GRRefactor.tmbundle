@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>GRRefactor</string>
+	<key>ordering</key>
+	<array>
+		<string>3B6B98AE-D793-46A6-81DC-89D8503F173B</string>
+		<string>45C04C78-9F3B-4730-B524-4B0210541C87</string>
+		<string>C5EF3C48-DED6-4308-90C1-BE75B4430332</string>
+	</array>
+	<key>uuid</key>
+	<string>EF9C3A38-C564-4ABD-B62D-E541054A550B</string>
+</dict>
+</plist>
